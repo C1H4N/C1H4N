@@ -9,10 +9,4 @@
 
 </div>
 
----
 
-<div align="center">
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=C1H4N&theme=dark)
-
-</div>
