@@ -7,7 +7,7 @@
 
 <br>
 
-<img src="https://readmestats-murex.vercel.app/api/top-langs/?username=C1H4N&layout=compact&theme=dark&count_private=true&langs_count=8&exclude_repo=readmestats,dbs" height="160"/>
+![Top Langs](https://readmestats-murex.vercel.app/api/top-langs/?username=C1H4N&count_private=true&layout=compact&langs_count=8&hide_border=true&bg_color=00000000&title_color=58A6FF&text_color=C9D1D9&exclude_repo=readmestats,dbs&cache_seconds=21600)
 
 
 </div>
